@@ -1,3 +1,3 @@
-module github.com/karelbilek/template-parse-recursive
+module github.com/robert-flyttsmart/template-parse-recursive
 
 go 1.18
